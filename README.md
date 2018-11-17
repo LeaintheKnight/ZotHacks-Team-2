@@ -1,2 +1,2 @@
 # ZotHacks-Team-2
-2017 Zot Hacks team 2 project
+2018 Zot Hacks team 2 project
